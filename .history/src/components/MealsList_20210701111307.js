@@ -1,0 +1,5 @@
+function MealList ({meals}){
+
+}
+
+export {}
